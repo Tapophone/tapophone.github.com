@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tapophone.com/index.html</loc>
-    <lastmod>2018-02-16</lastmod>
+    <lastmod>2018-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -49,21 +49,6 @@
     </image:image>
     <image:image>
       <image:loc>http://tapophone.com/images/tara%20tiba-crop-u648.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tapophone.com/images/black%20masala548x366.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tapophone.com/images/electric%20swing%20circus548x366.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tapophone.com/images/pravda548x366.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tapophone.com/images/swing%20ninjas548x366.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tapophone.com/images/tara%20tiba548x366.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tapophone.com/images/black%20masala62x42.jpg</image:loc>

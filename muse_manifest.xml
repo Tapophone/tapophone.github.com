@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tapophone.com" resolutions="1x" timestamp="1518788791628">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tapophone.com" resolutions="1x" timestamp="1518858389159">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="449228238" ref="index"/>
-    <file name="index.css" crc="171730843" ref="index"/>
+    <file name="master_a-master.css" crc="23588690" ref="index"/>
+    <file name="index.css" crc="4084005896" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="282333339" ref="index"/>
-    <file name="nomq_index.css" crc="60093983" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4167752078" ref="index"/>
+    <file name="nomq_index.css" crc="4123870580" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="presskit.zip" crc="3995997973" seo="true" mt="1517672891000"/>
@@ -33,21 +33,26 @@
     <file name="black masala.jpg" crc="452691848" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="electric swing circus.jpg" crc="3887311072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pravda.jpg" crc="3816615903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="swing ninjas.png" crc="516057257" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="tara tiba.jpg" crc="15520602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -107,28 +112,13 @@
     <file name="pravda-crop-u596.jpg" crc="248857667" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="swing ninjas-crop-u622.png" crc="4230556901" seo="true" ref="index">
+    <file name="swing ninjas-crop-u622.png" crc="110469921" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tara tiba-crop-u648.jpg" crc="245241014" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="web-1 (2)-u412-fr2.jpg" crc="4123427746" ref="index"/>
-    <file name="black masala548x366.jpg" crc="4135833934" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="electric swing circus548x366.jpg" crc="124072942" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pravda548x366.jpg" crc="4224616411" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="swing ninjas548x366.png" crc="491544970" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tara tiba548x366.jpg" crc="536190026" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="black masala62x42.jpg" crc="453841463" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -145,5 +135,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="447487690" seo="true" mt="1518788701266" redirect="true"/>
+  <file name="index.html" crc="3997155507" seo="true" mt="1518855742601" redirect="true"/>
 </manifest>

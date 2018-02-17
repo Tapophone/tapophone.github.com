@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tapophone.com" resolutions="1x" timestamp="1518858389159">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tapophone.com" resolutions="1x" timestamp="1518860384932">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="23588690" ref="index"/>
-    <file name="index.css" crc="4084005896" ref="index"/>
+    <file name="master_a-master.css" crc="338256935" ref="index"/>
+    <file name="index.css" crc="264626069" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4167752078" ref="index"/>
-    <file name="nomq_index.css" crc="4123870580" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="514478093" ref="index"/>
+    <file name="nomq_index.css" crc="67743355" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="presskit.zip" crc="3995997973" seo="true" mt="1517672891000"/>
@@ -135,5 +135,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3997155507" seo="true" mt="1518855742601" redirect="true"/>
+  <file name="index.html" crc="3794987302" seo="true" mt="1518860302046" redirect="true"/>
 </manifest>
